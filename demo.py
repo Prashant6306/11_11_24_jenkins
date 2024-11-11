@@ -4,4 +4,4 @@ if num==2:
 else:
     print("shree ganesh")
 
-print("hello")
+print("hello world")
